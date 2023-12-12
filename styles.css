@@ -1,13 +1,13 @@
 body, h1{
-    text-color: red;
+    text-color: rgba(250, 105, 252, 0.55);
     font-family: 'Courier New', Courier, monospace; 
 }
 p{
     text-color: CornflowerBlue;
     font-family: 'Lucida Handwriting', cursive;
-    padding: 5%; 
+    padding: 5%;
 title{
-    text-color: CornflowerBlue;
+    text-color: rgb(124, 191, 225);
     font-family: 'Courier New', Courier, monospace;
 }
 h3, h4{
