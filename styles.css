@@ -5,5 +5,8 @@ body{
 head{
     text-color: CornflowerBlue;
     font-family: 'Lucida Handwriting', cursive;
-
+}
+title{
+    text-color: CornflowerBlue;
+    font-family: 'Courier New', Courier, monospace;
 }
