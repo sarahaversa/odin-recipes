@@ -2,7 +2,7 @@ body{
     text-color: AliceBlue;
     font-family: 'Courier New', Courier, monospace; 
 }
-h1{
+h1, p{
     text-color: CornflowerBlue;
     font-family: 'Lucida Handwriting', cursive;
 }
