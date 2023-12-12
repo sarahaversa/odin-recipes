@@ -13,3 +13,15 @@ title{
 h3, h4{
     text-color: orange;
 }
+/* unvisited link */
+a:link{
+    color:rgb(43, 192, 226);
+}
+/* visited link */
+a:visited{
+    color: rgb(223, 125, 204)
+}
+/* mouse over link */
+a:hover{
+    color: rgba(25, 150, 25, 0.711);
+}
