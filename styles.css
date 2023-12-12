@@ -1,12 +1,15 @@
-body{
-    text-color: AliceBlue;
+body, h1{
+    text-color: red;
     font-family: 'Courier New', Courier, monospace; 
 }
-h1, p{
+p{
     text-color: CornflowerBlue;
     font-family: 'Lucida Handwriting', cursive;
 }
 title{
     text-color: CornflowerBlue;
     font-family: 'Courier New', Courier, monospace;
+}
+h3, h4{
+    text-color: orange;
 }
