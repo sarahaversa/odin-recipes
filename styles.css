@@ -5,6 +5,8 @@ body, h1{
 p{
     text-color: CornflowerBlue;
     font-family: 'Lucida Handwriting', cursive;
+    padding: 25%;
+    margin: 25px 25px;
 }
 title{
     text-color: CornflowerBlue;
@@ -12,6 +14,7 @@ title{
 }
 h3, h4{
     text-color: orange;
+    padding: 50%;
 }
 /* unvisited link */
 a:link{
